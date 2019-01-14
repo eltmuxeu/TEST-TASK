@@ -1,0 +1,49 @@
+[OPTIONS]
+Compatibility=1.1
+Full-text search=Yes
+Contents file=index.hhc
+Default Window=main
+Default topic=index.html
+Index file=index.hhk
+Language=0x409 English (United States)
+Title=STM32F4DISCOVERY-TEST
+
+[WINDOWS]
+main="STM32F4DISCOVERY-TEST","index.hhc","index.hhk","index.html","index.html",,,,,0x23520,,0x10387e,,,,,,,,0
+
+[FILES]
+index.html
+adc_8c.html
+dac_8c.html
+dma_8c.html
+gpio_8c.html
+main_8c.html
+usb__device_8c.html
+usbd__cdc__if_8c.html
+usbd__conf_8c.html
+usbd__desc_8c.html
+group___u_s_b_d___c_d_c___i_f___private___types_definitions.html
+group___u_s_b_d___c_d_c___i_f___private___defines.html
+group___u_s_b_d___c_d_c___i_f___private___macros.html
+group___u_s_b_d___c_d_c___i_f___private___variables.html
+group___u_s_b_d___c_d_c___i_f___exported___variables.html
+group___u_s_b_d___c_d_c___i_f___private___function_prototypes.html
+group___u_s_b_d___d_e_s_c___private___types_definitions.html
+group___u_s_b_d___d_e_s_c___private___defines.html
+group___u_s_b_d___d_e_s_c___private___macros.html
+group___u_s_b_d___d_e_s_c___private___function_prototypes.html
+group___u_s_b_d___d_e_s_c___private___variables.html
+group___u_s_b_d___d_e_s_c___private___functions.html
+group___s_t_m32___u_s_b___o_t_g___d_e_v_i_c_e___l_i_b_r_a_r_y.html
+group___u_s_b_d___c_d_c___i_f.html
+group___u_s_b_d___d_e_s_c.html
+modules.html
+files.html
+globals.html
+globals_func.html
+globals_vars.html
+globals_defs.html
+tabs.css
+tab_b.gif
+tab_l.gif
+tab_r.gif

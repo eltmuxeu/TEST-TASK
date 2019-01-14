@@ -1,0 +1,351 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#g89686ff64ce14e5466980830aea57e07"><param name="Name" value="__ALIGN_END"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#g89686ff64ce14e5466980830aea57e07"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#g89686ff64ce14e5466980830aea57e07"><param name="Name" value="USBD_DESC_Private_Variables"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html"><param name="Name" value="adc.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#22b804736f5648d52f639b2647d4ed13"><param name="Name" value="hadc1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#3f61f2c2af0f122f81a87af8ad7b4360"><param name="Name" value="HAL_ADC_MspDeInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#c3139540667c403c5dfd37a99c610b1c"><param name="Name" value="HAL_ADC_MspInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#1c126854bb1813d31ab4776b21dcc51f"><param name="Name" value="hdma_adc1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#cccd58aa70215a6b184ad242312ffd0c"><param name="Name" value="MX_ADC1_Init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#f6510ec9c01be68b14a02327ef5889e1"><param name="Name" value="ADC_RANGE"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#5a03d0b939a8dda552c9fe3319a82485"><param name="Name" value="ADC_VREF"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gf3db03a3d03a80e1ec7a0a9c470d9692"><param name="Name" value="APP_RX_DATA_SIZE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gf3db03a3d03a80e1ec7a0a9c470d9692"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gf3db03a3d03a80e1ec7a0a9c470d9692"><param name="Name" value="USBD_CDC_IF_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gff35924b436331d533599db9489c79ee"><param name="Name" value="APP_TX_DATA_SIZE"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gff35924b436331d533599db9489c79ee"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gff35924b436331d533599db9489c79ee"><param name="Name" value="USBD_CDC_IF_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g5137d6201dbdef2bf351c5b4941c24f4"><param name="Name" value="CDC_Transmit_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g5137d6201dbdef2bf351c5b4941c24f4"><param name="Name" value="USBD_CDC_IF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g5137d6201dbdef2bf351c5b4941c24f4"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#2e03a7c8934f1b3566ba62d0adc5a5e6"><param name="Name" value="ConversionDigitalToArray"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#e172614e324932599305661b8d8d5ac5"><param name="Name" value="ConversionIntegerToChar"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html"><param name="Name" value="dac.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#13b8fa4f908f78040536cc8cfc99231e"><param name="Name" value="HAL_DAC_MspDeInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#8e4797900d3cb9171a484f2b955aba87"><param name="Name" value="HAL_DAC_MspInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#40a0d1383beda58531dfda6218720e45"><param name="Name" value="hdac"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#dac6621f933c065bc075ac0af3cbbb54"><param name="Name" value="MX_DAC_Init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dma_8c.html"><param name="Name" value="dma.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#1730ffe1e560465665eb47d9264826f9"><param name="Name" value="Error_Handler"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#1730ffe1e560465665eb47d9264826f9"><param name="Name" value="main.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#1730ffe1e560465665eb47d9264826f9"><param name="Name" value="usbd_conf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b4a3997930a2568b16f0ead80d802bf9"><param name="Name" value="f32TempVoltageAverage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#5c00d82782fd1d10bf0e4469075a635b"><param name="Name" value="f32Voltage_mV"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#eb4ff8e07125d50d779ba135975ac2a3"><param name="Name" value="f32Voltage_V"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#0d6779398f57caab7d191b220bed7ff5"><param name="Name" value="f32VoltageAverage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#ge36d67393118d9d8531a8d633e23a797"><param name="Name" value="FS_Desc"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#ge36d67393118d9d8531a8d633e23a797"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#ge36d67393118d9d8531a8d633e23a797"><param name="Name" value="USBD_DESC_Private_Variables"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="gpio_8c.html"><param name="Name" value="gpio.c"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#22b804736f5648d52f639b2647d4ed13"><param name="Name" value="hadc1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#3f61f2c2af0f122f81a87af8ad7b4360"><param name="Name" value="HAL_ADC_MspDeInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#c3139540667c403c5dfd37a99c610b1c"><param name="Name" value="HAL_ADC_MspInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#13b8fa4f908f78040536cc8cfc99231e"><param name="Name" value="HAL_DAC_MspDeInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#8e4797900d3cb9171a484f2b955aba87"><param name="Name" value="HAL_DAC_MspInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0c449541523759cf62be9c9d47540c5d"><param name="Name" value="HAL_PCD_ConnectCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#1679f5c50539a3dfca1391557e7a757b"><param name="Name" value="HAL_PCD_DataInStageCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#2f1ac834d9677dcae7d8973828f81149"><param name="Name" value="HAL_PCD_DataOutStageCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#25f930b5fe696224f8e71dacf5f324b4"><param name="Name" value="HAL_PCD_DisconnectCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#8f4041d553ef2fb326c6e483797f99a8"><param name="Name" value="HAL_PCD_ISOINIncompleteCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#4274f129d782f0a3c9a10b5bbe022cd4"><param name="Name" value="HAL_PCD_ISOOUTIncompleteCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0a53f3c7c744fcfa7bdba6e9badc70d4"><param name="Name" value="HAL_PCD_MspDeInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#b88e6d72062dc5d478ab12b435695ccb"><param name="Name" value="HAL_PCD_MspInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#f4fbef977092aa525c6b1668ffbec77b"><param name="Name" value="HAL_PCD_ResetCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0386a36b921cd51dd6e50103c3cd33b1"><param name="Name" value="HAL_PCD_ResumeCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#9d72aa4d3d984b164047b081d4566f6d"><param name="Name" value="HAL_PCD_SetupStageCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#85c99eeb4aa17d8ff5298efff92ac28e"><param name="Name" value="HAL_PCD_SOFCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0e14acd4564979743bc0a89aa5f15428"><param name="Name" value="HAL_PCD_SuspendCallback"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#40a0d1383beda58531dfda6218720e45"><param name="Name" value="hdac"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#1c126854bb1813d31ab4776b21dcc51f"><param name="Name" value="hdma_adc1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#3ec0d70a6cb9406d997fb3d006cc940d"><param name="Name" value="hpcd_USB_OTG_FS"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___exported___variables.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="hUsbDeviceFS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___exported___variables.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="usb_device.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___exported___variables.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___exported___variables.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="USBD_CDC_IF_Exported_Variables"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html"><param name="Name" value="main.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#f6510ec9c01be68b14a02327ef5889e1"><param name="Name" value="ADC_RANGE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#5a03d0b939a8dda552c9fe3319a82485"><param name="Name" value="ADC_VREF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#2e03a7c8934f1b3566ba62d0adc5a5e6"><param name="Name" value="ConversionDigitalToArray"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#e172614e324932599305661b8d8d5ac5"><param name="Name" value="ConversionIntegerToChar"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#1730ffe1e560465665eb47d9264826f9"><param name="Name" value="Error_Handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b4a3997930a2568b16f0ead80d802bf9"><param name="Name" value="f32TempVoltageAverage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#5c00d82782fd1d10bf0e4469075a635b"><param name="Name" value="f32Voltage_mV"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#eb4ff8e07125d50d779ba135975ac2a3"><param name="Name" value="f32Voltage_V"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#0d6779398f57caab7d191b220bed7ff5"><param name="Name" value="f32VoltageAverage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a447c2e4e00b68e272d6a74a70e0cf3f"><param name="Name" value="SIZE_ARRAY_USB"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#70af21c671abfcc773614a9a4f63d920"><param name="Name" value="SystemClock_Config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c53c787d427e436a068558dfc2282597"><param name="Name" value="ui16Result"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ad67f8527f1b7a89a212d6217d6812a6"><param name="Name" value="ui32CounterVoltageAverage"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#81d1111371aaec05825de523157c36cd"><param name="Name" value="ui32ResultConversionADC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b3803d0dcc07c34a2bdc1733b04e8b91"><param name="Name" value="ui8FlagIntSysTick"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#98e2efe3feb9ffd999ec0a69b66b0496"><param name="Name" value="ui8TxArrayUSB"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#840291bc02cba5474a4cb46a9b9566fe"><param name="Name" value="main"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="adc_8c.html#cccd58aa70215a6b184ad242312ffd0c"><param name="Name" value="MX_ADC1_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dac_8c.html#dac6621f933c065bc075ac0af3cbbb54"><param name="Name" value="MX_DAC_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="dma_8c.html#323249dac769f9855c10b4ec9446b707"><param name="Name" value="MX_DMA_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="gpio_8c.html#c724e431d2af879252de35615be2bdea"><param name="Name" value="MX_GPIO_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usb__device_8c.html#dab4f7fc1db4ce2be073d3913209d2af"><param name="Name" value="MX_USB_DEVICE_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#a447c2e4e00b68e272d6a74a70e0cf3f"><param name="Name" value="SIZE_ARRAY_USB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#70af21c671abfcc773614a9a4f63d920"><param name="Name" value="SystemClock_Config"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#70af21c671abfcc773614a9a4f63d920"><param name="Name" value="main.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#70af21c671abfcc773614a9a4f63d920"><param name="Name" value="usbd_conf.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#c53c787d427e436a068558dfc2282597"><param name="Name" value="ui16Result"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#ad67f8527f1b7a89a212d6217d6812a6"><param name="Name" value="ui32CounterVoltageAverage"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#81d1111371aaec05825de523157c36cd"><param name="Name" value="ui32ResultConversionADC"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#b3803d0dcc07c34a2bdc1733b04e8b91"><param name="Name" value="ui8FlagIntSysTick"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="main_8c.html#98e2efe3feb9ffd999ec0a69b66b0496"><param name="Name" value="ui8TxArrayUSB"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usb__device_8c.html"><param name="Name" value="usb_device.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usb__device_8c.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="hUsbDeviceFS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usb__device_8c.html#dab4f7fc1db4ce2be073d3913209d2af"><param name="Name" value="MX_USB_DEVICE_Init"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g3d6767367e9b15bae8d264a78102aba8"><param name="Name" value="USB_SIZ_BOS_DESC"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g3d6767367e9b15bae8d264a78102aba8"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g3d6767367e9b15bae8d264a78102aba8"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#gf3db03a3d03a80e1ec7a0a9c470d9692"><param name="Name" value="APP_RX_DATA_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#gff35924b436331d533599db9489c79ee"><param name="Name" value="APP_TX_DATA_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#g5137d6201dbdef2bf351c5b4941c24f4"><param name="Name" value="CDC_Transmit_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#gfe8a2d9e10b33d5e7906f9f04f95358e"><param name="Name" value="hUsbDeviceFS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#g99394ed19b774f171df96c2848c411ed"><param name="Name" value="USBD_Interface_fops_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#g1e37e6616e6affe5acf9c0befd063f6a"><param name="Name" value="UserRxBufferFS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__cdc__if_8c.html#gd48fea85cdb7aed49bf62140a52f23e0"><param name="Name" value="UserTxBufferFS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html"><param name="Name" value="USBD_CDC_IF"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g5137d6201dbdef2bf351c5b4941c24f4"><param name="Name" value="CDC_Transmit_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g99394ed19b774f171df96c2848c411ed"><param name="Name" value="USBD_Interface_fops_FS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___exported___variables.html"><param name="Name" value="USBD_CDC_IF_Exported_Variables"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html"><param name="Name" value="USBD_CDC_IF_Private_Defines"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gf3db03a3d03a80e1ec7a0a9c470d9692"><param name="Name" value="APP_RX_DATA_SIZE"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___defines.html#gff35924b436331d533599db9489c79ee"><param name="Name" value="APP_TX_DATA_SIZE"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html"><param name="Name" value="USBD_CDC_IF_Private_Variables"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#g1e37e6616e6affe5acf9c0befd063f6a"><param name="Name" value="UserRxBufferFS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#gd48fea85cdb7aed49bf62140a52f23e0"><param name="Name" value="UserTxBufferFS"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html"><param name="Name" value="usbd_conf.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#1730ffe1e560465665eb47d9264826f9"><param name="Name" value="Error_Handler"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0c449541523759cf62be9c9d47540c5d"><param name="Name" value="HAL_PCD_ConnectCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#1679f5c50539a3dfca1391557e7a757b"><param name="Name" value="HAL_PCD_DataInStageCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#2f1ac834d9677dcae7d8973828f81149"><param name="Name" value="HAL_PCD_DataOutStageCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#25f930b5fe696224f8e71dacf5f324b4"><param name="Name" value="HAL_PCD_DisconnectCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#8f4041d553ef2fb326c6e483797f99a8"><param name="Name" value="HAL_PCD_ISOINIncompleteCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#4274f129d782f0a3c9a10b5bbe022cd4"><param name="Name" value="HAL_PCD_ISOOUTIncompleteCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0a53f3c7c744fcfa7bdba6e9badc70d4"><param name="Name" value="HAL_PCD_MspDeInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#b88e6d72062dc5d478ab12b435695ccb"><param name="Name" value="HAL_PCD_MspInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#f4fbef977092aa525c6b1668ffbec77b"><param name="Name" value="HAL_PCD_ResetCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0386a36b921cd51dd6e50103c3cd33b1"><param name="Name" value="HAL_PCD_ResumeCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#9d72aa4d3d984b164047b081d4566f6d"><param name="Name" value="HAL_PCD_SetupStageCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#85c99eeb4aa17d8ff5298efff92ac28e"><param name="Name" value="HAL_PCD_SOFCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#0e14acd4564979743bc0a89aa5f15428"><param name="Name" value="HAL_PCD_SuspendCallback"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#3ec0d70a6cb9406d997fb3d006cc940d"><param name="Name" value="hpcd_USB_OTG_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#70af21c671abfcc773614a9a4f63d920"><param name="Name" value="SystemClock_Config"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d4fa6f2eeefe95d07148c6c53d111eae"><param name="Name" value="USBD_LL_ClearStallEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#e12e7de3c398d5663976bf11faa63572"><param name="Name" value="USBD_LL_CloseEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#ae9bfb6a27b11f232fc55a1d1b28be24"><param name="Name" value="USBD_LL_DeInit"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#383d9a41089cf426cdc61b5b24e2ca0a"><param name="Name" value="USBD_LL_Delay"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#10080ed9555110afba809de968314985"><param name="Name" value="USBD_LL_FlushEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#eb80f50482e04c046ba41f5ea58a1b2b"><param name="Name" value="USBD_LL_GetRxDataSize"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#24b61e95db7e4c7ad30a835e8d905943"><param name="Name" value="USBD_LL_Init"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#2a0f10f93cc4246272b63661051a64b7"><param name="Name" value="USBD_LL_IsStallEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d96254d74d95496ffb5f6f2248585cb0"><param name="Name" value="USBD_LL_OpenEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#259b00707b333065b66be515dd019428"><param name="Name" value="USBD_LL_PrepareReceive"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d3674ea3c4a9c4bbe7c73192727f922f"><param name="Name" value="USBD_LL_SetUSBAddress"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#bc2b4a7c8307e04955b015fd32057ec7"><param name="Name" value="USBD_LL_StallEP"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#43e53e424e9850d8261e1f9a1be53348"><param name="Name" value="USBD_LL_Start"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#c522b28139c1868a2e24d044fc8288fd"><param name="Name" value="USBD_LL_Stop"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#b87eb9f3d4d9f8956d2c6b77230f265c"><param name="Name" value="USBD_LL_Transmit"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gca5e66e8b6c89a896f6ad16f9a68128f"><param name="Name" value="USBD_CONFIGURATION_STRING_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gca5e66e8b6c89a896f6ad16f9a68128f"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gca5e66e8b6c89a896f6ad16f9a68128f"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html"><param name="Name" value="usbd_desc.c"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g89686ff64ce14e5466980830aea57e07"><param name="Name" value="__ALIGN_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#ge36d67393118d9d8531a8d633e23a797"><param name="Name" value="FS_Desc"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g3d6767367e9b15bae8d264a78102aba8"><param name="Name" value="USB_SIZ_BOS_DESC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gca5e66e8b6c89a896f6ad16f9a68128f"><param name="Name" value="USBD_CONFIGURATION_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g40ed2a0fb60c50a285983a09ba6921d6"><param name="Name" value="USBD_FS_ConfigStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g14798be38c08a37163e53167032485ff"><param name="Name" value="USBD_FS_DeviceDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gb248f43276f92d982ab5853111e4fb10"><param name="Name" value="USBD_FS_InterfaceStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gc02628ceb6a6a071e192dcb85063c0cc"><param name="Name" value="USBD_FS_LangIDStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g6427a671827813efe1a46c3dfcb05683"><param name="Name" value="USBD_FS_ManufacturerStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g0ec558c0303daabb851d584109a56514"><param name="Name" value="USBD_FS_ProductStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gad2a1d1451821845eda602a82b1cd213"><param name="Name" value="USBD_FS_SerialStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g2562ccc9162020b79f07d813eba10ddb"><param name="Name" value="USBD_INTERFACE_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g070dd542d4d914e86fdf103fa5fdd72f"><param name="Name" value="USBD_LANGID_STRING"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gee0c9fd7e8265b90126028919cd863a6"><param name="Name" value="USBD_MANUFACTURER_STRING"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#ga6f9e36da39c9881963cabf42df4d216"><param name="Name" value="USBD_PID_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#ga11017e20e3a2f1ef891b86212c4b730"><param name="Name" value="USBD_PRODUCT_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#g0057246fa742e75846bb0467a84921fc"><param name="Name" value="USBD_SERIALNUMBER_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__desc_8c.html#gc5251397ce2246b546b472cd802e6d62"><param name="Name" value="USBD_VID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g3d6767367e9b15bae8d264a78102aba8"><param name="Name" value="USB_SIZ_BOS_DESC"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gca5e66e8b6c89a896f6ad16f9a68128f"><param name="Name" value="USBD_CONFIGURATION_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g2562ccc9162020b79f07d813eba10ddb"><param name="Name" value="USBD_INTERFACE_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g070dd542d4d914e86fdf103fa5fdd72f"><param name="Name" value="USBD_LANGID_STRING"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gee0c9fd7e8265b90126028919cd863a6"><param name="Name" value="USBD_MANUFACTURER_STRING"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga6f9e36da39c9881963cabf42df4d216"><param name="Name" value="USBD_PID_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga11017e20e3a2f1ef891b86212c4b730"><param name="Name" value="USBD_PRODUCT_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g0057246fa742e75846bb0467a84921fc"><param name="Name" value="USBD_SERIALNUMBER_STRING_FS"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gc5251397ce2246b546b472cd802e6d62"><param name="Name" value="USBD_VID"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g40ed2a0fb60c50a285983a09ba6921d6"><param name="Name" value="USBD_FS_ConfigStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g14798be38c08a37163e53167032485ff"><param name="Name" value="USBD_FS_DeviceDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gb248f43276f92d982ab5853111e4fb10"><param name="Name" value="USBD_FS_InterfaceStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gc02628ceb6a6a071e192dcb85063c0cc"><param name="Name" value="USBD_FS_LangIDStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g6427a671827813efe1a46c3dfcb05683"><param name="Name" value="USBD_FS_ManufacturerStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g0ec558c0303daabb851d584109a56514"><param name="Name" value="USBD_FS_ProductStrDescriptor"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gad2a1d1451821845eda602a82b1cd213"><param name="Name" value="USBD_FS_SerialStrDescriptor"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html"><param name="Name" value="USBD_DESC_Private_Variables"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#g89686ff64ce14e5466980830aea57e07"><param name="Name" value="__ALIGN_END"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___variables.html#ge36d67393118d9d8531a8d633e23a797"><param name="Name" value="FS_Desc"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g40ed2a0fb60c50a285983a09ba6921d6"><param name="Name" value="USBD_FS_ConfigStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g40ed2a0fb60c50a285983a09ba6921d6"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g40ed2a0fb60c50a285983a09ba6921d6"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g14798be38c08a37163e53167032485ff"><param name="Name" value="USBD_FS_DeviceDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g14798be38c08a37163e53167032485ff"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g14798be38c08a37163e53167032485ff"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gb248f43276f92d982ab5853111e4fb10"><param name="Name" value="USBD_FS_InterfaceStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gb248f43276f92d982ab5853111e4fb10"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gb248f43276f92d982ab5853111e4fb10"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gc02628ceb6a6a071e192dcb85063c0cc"><param name="Name" value="USBD_FS_LangIDStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gc02628ceb6a6a071e192dcb85063c0cc"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gc02628ceb6a6a071e192dcb85063c0cc"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g6427a671827813efe1a46c3dfcb05683"><param name="Name" value="USBD_FS_ManufacturerStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g6427a671827813efe1a46c3dfcb05683"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g6427a671827813efe1a46c3dfcb05683"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g0ec558c0303daabb851d584109a56514"><param name="Name" value="USBD_FS_ProductStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g0ec558c0303daabb851d584109a56514"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#g0ec558c0303daabb851d584109a56514"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gad2a1d1451821845eda602a82b1cd213"><param name="Name" value="USBD_FS_SerialStrDescriptor"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gad2a1d1451821845eda602a82b1cd213"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___functions.html#gad2a1d1451821845eda602a82b1cd213"><param name="Name" value="USBD_DESC_Private_Functions"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g99394ed19b774f171df96c2848c411ed"><param name="Name" value="USBD_Interface_fops_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g99394ed19b774f171df96c2848c411ed"><param name="Name" value="USBD_CDC_IF"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f.html#g99394ed19b774f171df96c2848c411ed"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g2562ccc9162020b79f07d813eba10ddb"><param name="Name" value="USBD_INTERFACE_STRING_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g2562ccc9162020b79f07d813eba10ddb"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g2562ccc9162020b79f07d813eba10ddb"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g070dd542d4d914e86fdf103fa5fdd72f"><param name="Name" value="USBD_LANGID_STRING"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g070dd542d4d914e86fdf103fa5fdd72f"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g070dd542d4d914e86fdf103fa5fdd72f"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d4fa6f2eeefe95d07148c6c53d111eae"><param name="Name" value="USBD_LL_ClearStallEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#e12e7de3c398d5663976bf11faa63572"><param name="Name" value="USBD_LL_CloseEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#ae9bfb6a27b11f232fc55a1d1b28be24"><param name="Name" value="USBD_LL_DeInit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#383d9a41089cf426cdc61b5b24e2ca0a"><param name="Name" value="USBD_LL_Delay"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#10080ed9555110afba809de968314985"><param name="Name" value="USBD_LL_FlushEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#eb80f50482e04c046ba41f5ea58a1b2b"><param name="Name" value="USBD_LL_GetRxDataSize"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#24b61e95db7e4c7ad30a835e8d905943"><param name="Name" value="USBD_LL_Init"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#2a0f10f93cc4246272b63661051a64b7"><param name="Name" value="USBD_LL_IsStallEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d96254d74d95496ffb5f6f2248585cb0"><param name="Name" value="USBD_LL_OpenEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#259b00707b333065b66be515dd019428"><param name="Name" value="USBD_LL_PrepareReceive"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#d3674ea3c4a9c4bbe7c73192727f922f"><param name="Name" value="USBD_LL_SetUSBAddress"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#bc2b4a7c8307e04955b015fd32057ec7"><param name="Name" value="USBD_LL_StallEP"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#43e53e424e9850d8261e1f9a1be53348"><param name="Name" value="USBD_LL_Start"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#c522b28139c1868a2e24d044fc8288fd"><param name="Name" value="USBD_LL_Stop"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="usbd__conf_8c.html#b87eb9f3d4d9f8956d2c6b77230f265c"><param name="Name" value="USBD_LL_Transmit"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gee0c9fd7e8265b90126028919cd863a6"><param name="Name" value="USBD_MANUFACTURER_STRING"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gee0c9fd7e8265b90126028919cd863a6"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gee0c9fd7e8265b90126028919cd863a6"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga6f9e36da39c9881963cabf42df4d216"><param name="Name" value="USBD_PID_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga6f9e36da39c9881963cabf42df4d216"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga6f9e36da39c9881963cabf42df4d216"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga11017e20e3a2f1ef891b86212c4b730"><param name="Name" value="USBD_PRODUCT_STRING_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga11017e20e3a2f1ef891b86212c4b730"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#ga11017e20e3a2f1ef891b86212c4b730"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g0057246fa742e75846bb0467a84921fc"><param name="Name" value="USBD_SERIALNUMBER_STRING_FS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g0057246fa742e75846bb0467a84921fc"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#g0057246fa742e75846bb0467a84921fc"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gc5251397ce2246b546b472cd802e6d62"><param name="Name" value="USBD_VID"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gc5251397ce2246b546b472cd802e6d62"><param name="Name" value="usbd_desc.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___d_e_s_c___private___defines.html#gc5251397ce2246b546b472cd802e6d62"><param name="Name" value="USBD_DESC_Private_Defines"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#g1e37e6616e6affe5acf9c0befd063f6a"><param name="Name" value="UserRxBufferFS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#g1e37e6616e6affe5acf9c0befd063f6a"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#g1e37e6616e6affe5acf9c0befd063f6a"><param name="Name" value="USBD_CDC_IF_Private_Variables"></OBJECT>
+  </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#gd48fea85cdb7aed49bf62140a52f23e0"><param name="Name" value="UserTxBufferFS"></OBJECT>
+  <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#gd48fea85cdb7aed49bf62140a52f23e0"><param name="Name" value="usbd_cdc_if.c"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Local" value="group___u_s_b_d___c_d_c___i_f___private___variables.html#gd48fea85cdb7aed49bf62140a52f23e0"><param name="Name" value="USBD_CDC_IF_Private_Variables"></OBJECT>
+  </UL>
+</UL>
+</BODY>
+</HTML>
